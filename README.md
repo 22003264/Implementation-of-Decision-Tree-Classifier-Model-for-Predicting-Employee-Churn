@@ -110,6 +110,9 @@ Accuracy Value:
 
 
 Data Prediction:
+
+
+
 ![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/9a5343bc-3a31-4ab6-9e9d-96bad64d5909)
 
 ## Result:
